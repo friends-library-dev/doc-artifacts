@@ -21,7 +21,7 @@
     "@friends-library/env": "^1.4.0",
     "@friends-library/types": "^6.0.0",
     "epub-check": "^0.3.0",
-    "fs-extra": "^9.0.1",
+    "fs-extra": "^10.0.0",
     "node-zip": "^1.1.1",
     "prettier": "^2.2.1",
     "x-chalk": "^1.0.1"
